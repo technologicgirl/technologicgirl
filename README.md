@@ -16,10 +16,8 @@ I'm Laura Angélica, a data engineer from 🇨🇴 **Bogotá, Colombia**, curren
 
  ### Let's Connect! 🌐
 
-Connect with me on social media to stay updated on my coding adventures, AI explorations, and outdoor escapades:
-
 - 💼 LinkedIn: [@lacardenasv](https://www.linkedin.com/in/lacardenasv/)
 - 📷 Instagram: [@lau_dynasty](https://www.instagram.com/lau_dynasty/)
 - 📹 Youtube: [@lacardenasv](https://www.youtube.com/channel/UC67vLA3N00GBxCK6IxdcACQ)
   
-Feel free to reach out, whether it's to discuss tech, share hiking recommendations, or just say hello! Looking forward to connecting with like-minded individuals.
+Feel free to reach out, whether it's to discuss tech, share hiking recommendations, or just say hello! Looking forward to build community :)
