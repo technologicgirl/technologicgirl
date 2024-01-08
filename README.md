@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm Laura Angélica, a data engineer from 🇨🇴 **Bogotá, Colombia**, currently living in 🇨🇦 **Halifax, Canada**. passionate about AI, blockchain, and the beauty of the great outdoors.🍃🌳🌎
+I'm Laura Angélica, a data engineer from 🇨🇴 **Bogotá, Colombia**, currently living in 🇨🇦 **Halifax, Canada**. passionate about AI, blockchain, the beauty of the great outdoors 🍃🌳🌎 and techno music 🎶🎵
 
  ### Things I code with.
 
